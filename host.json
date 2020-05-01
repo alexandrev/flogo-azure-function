@@ -1,0 +1,10 @@
+{
+    "version": "2.0",
+    "httpWorker": {
+	  "description": {
+		"arguments": ["-app"],
+		"defaultExecutablePath": "engine-windows-amd64.exe",
+		"defaultWorkerPath": "HelloWorld.json"
+	  }
+	}
+}
